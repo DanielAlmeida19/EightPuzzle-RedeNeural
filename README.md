@@ -20,6 +20,6 @@ Pode não ser a implementação mais elegante de todas, mas tentamos deixar ela 
 
 -Testes: 500 indivíduos por geração;
 
-# Obs
+# Observações
 
 Grande parte da nossa implementação foi baseada nos projetos do @JVictorDias, um excelente programador!!
