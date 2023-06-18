@@ -6,13 +6,20 @@ Pode não ser a implementação mais elegante de todas, mas tentamos deixar ela 
 
 # Rede neural:
 -Função de ativação nas camadas escondidas: Relu(X);
+
 -Função na camada de saída: Softmax(vetor_saida);
+
 -Escala do ruído na função de saída: 0.1;
--Uma camada escondida
+
+-Uma camada escondida;
 
 # Algoritmo genético:
 -Redução da diversidade;
+
 -Mutações aleatórias;
+
 -Testes: 500 indivíduos por geração;
+
+#Obs
 
 Grande parte da nossa implementação foi baseada nos projetos do @JVictorDias, um excelente programador!!
